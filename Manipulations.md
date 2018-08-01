@@ -22,3 +22,26 @@ This is useful for racking up enemy kills while getting 5 rupees a cycle for mor
 5. Wait for 5 actions from the Octo, then jump down.
 6. Place a bomb between the two octos.
 7. If one drops 5 rupees, it was a success, repeat. Otherwise reset.
+
+## Fist Ring Manip
+---
+We need a better one, but this one is known now.
+
+1. Start at know-it-all birds house outside entrance.
+2. save and hard reset
+3. Mash through menu
+4. Screen transition left
+5. If the Octo is towards the bottom-left and moves down, then transition right. Reset otherwise.
+6. If the season is Spring, transition right, then left twice,
+7. If the Octo moves up, then transition right again.
+8. If the season is now Summer, go North to Impa and encounter Maple.
+9. Bump into Maple toward the left middle of the screen.
+10. If the ring drops above you toward the snow piles, that should be Fist Ring.
+
+
+## HR L-2
+---
+1,2,3
+4. trans left
+5. Octo should be far left moving right, if so, it should also be spring after trans right. continue
+5. buy ring
