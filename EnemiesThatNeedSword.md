@@ -1,3 +1,0 @@
-- Medusa Head - Wear Red Ring
-- Magunesu - Wear Fist Ring
-- onox - Wear Red Ring

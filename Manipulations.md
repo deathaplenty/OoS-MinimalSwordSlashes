@@ -1,6 +1,6 @@
 # Manipulations to Know About
----
 ## Swordless Rupee Farming
+---
 This can be useful for farming bombs to make stalfos rooms easier.
 
 1. Go to town on a season that isn't autumn.

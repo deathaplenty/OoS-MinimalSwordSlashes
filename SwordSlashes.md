@@ -4,8 +4,6 @@
 
 4 Slashes before D4
 
-## Key
-
 ## Before Dungeon 1
 1. Sword slash to clear bush to get rupees from D0
 - Sword slash to open Maku Tree
