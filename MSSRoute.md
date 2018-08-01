@@ -7,10 +7,10 @@ This is where the run diverges. After you get the sword, go up above D0 and slas
 
 Before going to D1, we have some boring grinding and manipulations to do. First, go to the Know-it-all Birds hut, enter, exit and save. Now, for the boring part.
 
-Perform Swordless Octo Farming manipulations until you kill thirty Octos, enough to spawn Maple. SOF works by making sure you get enough rupees to constantly buy more bombs to farm more, so don't worry about running out of bombs.
+Perform [Swordless Octo Farming](https://github.com/deathaplenty/OoS-MinimalSwordSlashes/blob/master/Manipulations.md#swordless-octo-farming) manipulations until you kill thirty Octos, enough to spawn Maple. [SOF](https://github.com/deathaplenty/OoS-MinimalSwordSlashes/blob/master/Manipulations.md#swordless-octo-farming) works by making sure you get enough rupees to constantly buy more bombs to farm more, so don't worry about running out of bombs.
 (Doing the manipulation each time gets you a surplus of rupees which aren't needed. Optimally, you would only manip the rupees you need, but the manip also sets the Octos up for easy bomb kills.)
 
-After farming, it's time to perform the Fist Ring Manipulation. After you get the ring, make sure you appraise and equip it. You're now ready for D1. Buy more bombs if you'd like. It'd be better than punching Stalfos.
+After farming, it's time to perform the [Fist Ring](https://github.com/deathaplenty/OoS-MinimalSwordSlashes/blob/master/Manipulations.md#fist-ring-manip) Manipulation. After you get the ring, make sure you appraise and equip it. You're now ready for D1. Buy more bombs if you'd like. It'd be better than punching Stalfos.
 
 ## Dungeon 1
 Upon entering Dungeon 1, you are faced with two rooms with 4 stalfos in each. Kill the Stalfos with bombs/ Fist Ring
