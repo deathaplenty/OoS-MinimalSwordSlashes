@@ -3,7 +3,7 @@
 ## Before Dungeon 1
 The run starts typically. Skip through the text for the roadies as fast as possible, dance with Din, skip through Onox cutscene, and make your way to Hero's Cave for the L-1 Sword.
 
-This is where the run diverges. After you get the sword, go up above Hero's Cave and slash the grass, fall down the hole and collect 30 rupees. Use 20 of these rupees to buy bombs at the shop.
+This is where the run diverges. After you get the sword, go up above Hero's Cave. If the Octroks are in a good position, you can spinslash, killing both Octos and cutting the grass; these are two less kills you need with bombs later. Otherwise just cut the grass and fall down the hole to collect 30 rupees. Use 20 of these rupees to buy bombs at the shop.
 
 Before going to D1, we have some grinding and manipulations to do. First, go to the Know-it-all Birds hut, enter, exit and save. Now, for the boring part.
 

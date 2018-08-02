@@ -13,6 +13,7 @@ This can be useful for farming bombs to make stalfos rooms easier.
 
 ## Swordless Octo Farming
 ---
+### Rupees
 This is useful for racking up enemy kills while getting 5 rupees a cycle for more bombs.
 
 1. Start at know-it-all birds house outside entrance.
@@ -22,6 +23,15 @@ This is useful for racking up enemy kills while getting 5 rupees a cycle for mor
 5. Wait for 5 actions from the Octo, then jump down.
 6. Place a bomb between the two octos.
 7. If one drops 5 rupees, it was a success, repeat. Otherwise reset.
+
+### Rupeeless
+1. Start at know-it-all birds house outside entrance.
+2. Save and hard reset
+3. Mash through menu
+4. Screen transition left
+5. Wait for 3 or 4 Octo actions before dropping down
+6. The pair of Octos should be easy to bomb.
+
 
 ## Fist Ring Manip
 ---
