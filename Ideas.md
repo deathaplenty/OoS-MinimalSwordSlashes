@@ -4,3 +4,6 @@
 # Sword Slash Reduction Ideas
 - Red Ring : Necessary for sword-only damage
 - Expert's Ring/Fist Ring : Necessary for Magunesu
+
+# Goriya Bros Strat
+Saw it on Phoeno's stream. Gotta check it out.

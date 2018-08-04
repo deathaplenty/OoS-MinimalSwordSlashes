@@ -36,6 +36,7 @@ This is useful for racking up enemy kills while getting 5 rupees a cycle for mor
 ## Fist Ring Manip
 ---
 We need a better one, but this one is known now.
+You appear to need at least 10 rupees.
 
 1. Start at know-it-all birds house outside entrance.
 2. Save and hard reset
