@@ -31,6 +31,13 @@ Keep an eye on your ember seed and bomb count. You'll need one or both of these 
 If you didn't save bombs for Aquamentus, you will want to go buy bombs so that you can kill him without trying to punch him to death.
 
 ## To Subrosia, then D2
-The most important thing to remember on your way to getting the Rod of Seasons is to have enough ember seeds and bombs to clear the grass blocking the portal, and at least 1 bomb to get to winter without having to get the boomerang. Other than that this part of the run is identical to Any%. If you need ember seeds on your entry to D2, there are two grass tiles in front of the entrance that are guaranteed ember seed drops.
+
+Before making your way to subrosia, make sure you have at least 5 ember seeds and 1 bomb. You will need ember seeds to burn the bushes in the way of the Subrosia Portal, and you will need the bomb to hit the crystal to get access to Winter. There are some bushes in D1 that you can burn to get ember seeds if you need them.
+
+Make your way to the Eastern Forest as usual and do Rosa Hide and Seek. Go through the portal and go straight to the Temple of Seasons. Get the rod and go to winter. Use the bomb to hit the crystal, get winter, and leave Subrosia.
+
+Make your way to the shovel. If you have no bombs at this point, you will need to dig for a bomb drop for D2.
+
+Make your way to D2. At the entrance to D2 there are two patches of grass that give ember seeds. Grab them if you need them.
 
 ## Dungeon 2
