@@ -50,13 +50,15 @@ You appear to need at least 10 rupees.
 10. If the ring drops above you toward the snow piles, that should be Fist Ring.
 
 
-## Heart Ring L-2
+## Heart Ring L-2 / Potion
 ---
-Useful in case this run needs Heart Ring L-2. With Octo manip + Old Man Rupees, the funds can be raised for the ring.
+Useful in case this run needs Heart Ring L-2/ potion
 
-1. Start at know-it-all birds house outside entrance.
+1. Finish Dungeon 2
 2. Save and hard reset
-3. Mash through menu
-4. Transition left
-5. Octo should be far left moving right, if so, it should also be spring after transition right. continue
-5. Buy ring
+3. Mash through the menu
+4. Pick up the two ember seed bushes
+5. Dig up 3 rupees and 2 hearts in that order
+6. Transition right and left 4 times for a total of 8 screen transitions
+7. Go to maple
+8. Get Heart Ring and potion
