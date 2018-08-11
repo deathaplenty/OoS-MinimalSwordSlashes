@@ -1,0 +1,106 @@
+SystemID GB
+06A2	b	h	0	WRAM	Life
+06BA	b	u	0	WRAM	Gasha Seeds
+063E	b	u	0	WRAM	Maple Kill Counter
+00FF94	b	h	0	System Bus	RNG
+00FF95	b	h	0	System Bus	RNG
+06A6	b	h	0	WRAM	Hundreds of rupees
+06A5	b	h	0	WRAM	Tens and Ones of rupees
+06C6	b	h	0	WRAM	Ring Box Level
+06C0	b	h	0	WRAM	Ring Slot 1
+0	S	_	1		
+0015	b	h	0	WRAM	Music Fadeout INZ
+0016	b	h	0	WRAM	Fadeout rate; lower = faster
+0C62	b	h	0	WRAM	Current Music; $F0 no music. Affects cave exits.
+0C51	b	h	0	WRAM	Current Music; $00 is no music. Effects screen transitions
+0	S	_	1		
+06B5	b	h	0	WRAM	Ember
+06B6	b	h	0	WRAM	Scent
+06B7	b	h	0	WRAM	Pegasus
+06B8	b	h	0	WRAM	Gale
+06B9	b	h	0	WRAM	Mystery
+0C86	b	h	0	WRAM	Pegasus Effect Counter
+0	S	_	1		
+0620	b	u	0	WRAM	
+064C	b	u	0	WRAM	Mount Cucco
+064D	b	u	0	WRAM	
+064E	b	u	0	WRAM	
+064F	b	u	0	WRAM	Rolling Ridge
+0650	b	u	0	WRAM	
+0651	b	u	0	WRAM	Sunken City
+0652	b	u	0	WRAM	
+0653	b	u	0	WRAM	
+0654	b	u	0	WRAM	Unicorn Cave
+0655	b	u	0	WRAM	
+0656	b	u	0	WRAM	Soil North of Impa
+0657	b	u	0	WRAM	Eastern Forest
+0658	b	u	0	WRAM	
+0659	b	u	0	WRAM	
+065A	b	u	0	WRAM	Graveyard
+065B	b	u	0	WRAM	Soil Outside Mayor's House
+0	S	_	1		
+00C5C0	b	h	0	System Bus	This section is unappraised rings.
+00C5C1	b	h	0	System Bus	
+00C5C2	b	h	0	System Bus	
+00C5C3	b	h	0	System Bus	
+00C5C4	b	h	0	System Bus	
+00C5C5	b	h	0	System Bus	
+00C5C6	b	h	0	System Bus	
+00C5C7	b	h	0	System Bus	
+00C5C8	b	h	0	System Bus	
+00C5C9	b	h	0	System Bus	
+00C5CA	b	h	0	System Bus	
+00C5CB	b	h	0	System Bus	
+00C5CC	b	h	0	System Bus	
+00C5CD	b	h	0	System Bus	
+00C5CE	b	h	0	System Bus	
+00C5CF	b	h	0	System Bus	
+00C5D0	b	h	0	System Bus	
+00C5D1	b	h	0	System Bus	
+00C5D2	b	h	0	System Bus	
+00C5D3	b	h	0	System Bus	
+00C5D4	b	h	0	System Bus	
+00C5D5	b	h	0	System Bus	
+00C5D6	b	h	0	System Bus	
+00C5D7	b	h	0	System Bus	
+00C5D8	b	h	0	System Bus	
+00C5D9	b	h	0	System Bus	
+00C5DA	b	h	0	System Bus	
+00C5DB	b	h	0	System Bus	
+00C5DC	b	h	0	System Bus	
+00C5DD	b	h	0	System Bus	
+00C5DE	b	h	0	System Bus	
+00C5DF	b	h	0	System Bus	
+00C5E0	b	h	0	System Bus	
+00C5E1	b	h	0	System Bus	
+00C5E2	b	h	0	System Bus	
+00C5E3	b	h	0	System Bus	
+00C5E4	b	h	0	System Bus	
+00C5E5	b	h	0	System Bus	
+00C5E6	b	h	0	System Bus	
+00C5E7	b	h	0	System Bus	
+00C5E8	b	h	0	System Bus	
+00C5E9	b	h	0	System Bus	
+00C5EA	b	h	0	System Bus	
+00C5EB	b	h	0	System Bus	
+00C5EC	b	h	0	System Bus	
+00C5ED	b	h	0	System Bus	
+00C5EE	b	h	0	System Bus	
+00C5EF	b	h	0	System Bus	
+00C5F0	b	h	0	System Bus	
+00C5F1	b	h	0	System Bus	
+00C5F2	b	h	0	System Bus	
+00C5F3	b	h	0	System Bus	
+00C5F4	b	h	0	System Bus	
+00C5F5	b	h	0	System Bus	
+00C5F6	b	h	0	System Bus	
+00C5F7	b	h	0	System Bus	
+00C5F8	b	h	0	System Bus	
+00C5F9	b	h	0	System Bus	
+00C5FA	b	h	0	System Bus	
+00C5FB	b	h	0	System Bus	
+00C5FC	b	h	0	System Bus	
+00C5FD	b	h	0	System Bus	
+00C5FE	b	h	0	System Bus	
+00C5FF	b	h	0	System Bus	
+

@@ -1,6 +1,0 @@
-SystemID GB
-00C5C1	b	h	0	System Bus	$54; 2nd Ring slot
-00FF94	b	h	0	System Bus	RNG
-00FF95	b	h	0	System Bus	RNG
-06A5	b	u	0	WRAM	Some rupee value
-

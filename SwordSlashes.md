@@ -6,7 +6,7 @@
 
 ## Before Dungeon 1
 1. Sword slash to clear bush to get rupees from D0
-- Sword slash to open Maku Tree
+2. Sword slash to open Maku Tree
 
 
 Slashes before D1: 2
@@ -29,10 +29,16 @@ No Sword slashes on the way to D3
 No sword slashes in D3
 
 ## To Dungeon 4
-1. Slash to get flippers
-- Slash for spring banana
+3. Slash to get flippers
+4. Slash for spring banana
 
 Slashes before D3: 4
 
 ## Dungeon 4
 -
+
+
+
+## Dungeon 8
+- Medusa Head takes 5 slashes with Dbl Edge ring. 1 slash was required for ring. She takes 8 without the ring. The ring saves 2 slashes.
+  - She takes 4 slashes with Red Ring and spinslashes
