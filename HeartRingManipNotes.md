@@ -142,7 +142,3 @@ Potential find:
 - dig up 3 rupees and two hearts in that order
 - RLRLRLRL
 - Maple
-
-works with:
-- 3 rupees
--
