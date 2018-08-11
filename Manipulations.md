@@ -1,6 +1,7 @@
 # Manipulations to Know About
+
 ## Swordless Rupee Farming
----
+
 This can be useful for farming bombs to make stalfos rooms easier.
 
 1. Go to town on a season that isn't autumn.
@@ -12,7 +13,7 @@ This can be useful for farming bombs to make stalfos rooms easier.
 7. If you get 6 rupees, it was a success. Save and repeat, otherwise just reset and try again.
 
 ## Swordless Octo Farming
----
+
 ### Rupees
 This is useful for racking up enemy kills while getting 5 rupees a cycle for more bombs.
 
@@ -34,7 +35,6 @@ This is useful for racking up enemy kills while getting 5 rupees a cycle for mor
 
 
 ## Fist Ring Manip
----
 We need a better one, but this one is known now.
 You appear to need at least 10 rupees.
 
@@ -51,7 +51,6 @@ You appear to need at least 10 rupees.
 
 
 ## Heart Ring L-2 / Potion
----
 Useful in case this run needs Heart Ring L-2/ potion
 
 1. Finish Dungeon 2
