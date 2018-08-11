@@ -23,6 +23,9 @@ Use Fist Ring to flip the minecart switch. (This is why we get Fist Ring.)
 
 Damage boosting in the trap room before Goriya brothers isn't recommended unless you use a bomb to grab the fairy toward the end, but it would probably be best to save as many bombs as possible for Goriya Brothers. You have to save 6 bombs (5 for Aquamentus, 1 for Winter Spirit), so you at most only have 3 or 4 bombs to use on them, unless you go grab more from somewhere, which is slow.
 
+### Miniboss: Goriya Brothers
+Take a look at this [document](https://github.com/deathaplenty/OoS-MinimalSwordSlashes/blob/master/Misc/GoriyaBros.md) for Goriya Bros strategies.
+
 After you get seed satchel, take the warp back to boss key. After you have boss key, save and quit warp to the dungeon entrance. Now make your way to Aquamentus.
 
 If you didn't save bombs for Aquamentus, your only options are to punch him to death or go buy more bombs, both of which are really slow.
@@ -43,3 +46,12 @@ Make your way to D2. At the entrance to D2 there are two patches of grass that g
 
 ## D2: Snake's Remains
 This dungeon is pretty much the same as any%, except of course you don't use sword.
+
+## To D3
+The route to Poison Moth Lair is the same as in any%
+
+## D3: Poison Moth Lair
+This dungeon is the same as any% up until Oumai.
+
+### Miniboss: Oumai
+Oumai isn't difficult to kill without sword. It's just slow. When one of the oumai begin to pop up, drop a bomb at your feet, wait for a moment, pick up the Oumai, then drop it on the bomb. Continue this until you win. It will take at least 6 bombs.
