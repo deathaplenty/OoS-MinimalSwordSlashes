@@ -41,10 +41,14 @@ Can be killed after D5
 Can be killed on the way to D6
 
 ### Golden Octo
-Can be killed before D3. Ricky can body the octo pretty hard.
+Can be after before D3. Ricky can body the octo pretty hard. Save warp back to D3 and continue regular any% route
 
 ### Golden Darknut
 Can be killed before D7
 
 ### Earliest obtainable time
 Before D7
+
+
+### Gleeok
+Bomb Bag upgrade is necessary, and maybe Blast Ring, too.

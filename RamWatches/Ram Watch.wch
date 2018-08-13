@@ -8,6 +8,7 @@ SystemID GB
 06A5	b	h	0	WRAM	Tens and Ones of rupees
 06C6	b	h	0	WRAM	Ring Box Level
 06C0	b	h	0	WRAM	Ring Slot 1
+06AA	b	h	0	WRAM	Bomb count
 0	S	_	1		
 0015	b	h	0	WRAM	Music Fadeout INZ
 0016	b	h	0	WRAM	Fadeout rate; lower = faster
