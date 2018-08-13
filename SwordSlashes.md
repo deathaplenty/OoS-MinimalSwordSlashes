@@ -40,5 +40,4 @@ Slashes before D3: 4
 
 
 ## Dungeon 8
-- Medusa Head takes 5 slashes with Dbl Edge ring. 1 slash was required for ring. She takes 8 without the ring. The ring saves 2 slashes.
-  - She takes 4 slashes with Red Ring and spinslashes
+- Medusa head takes 4 slashes

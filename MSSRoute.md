@@ -54,4 +54,4 @@ The route to Poison Moth Lair is the same as in any%
 This dungeon is the same as any% up until Oumai.
 
 ### Miniboss: Oumai
-Oumai isn't difficult to kill without sword. It's just slow. When one of the oumai begin to pop up, drop a bomb at your feet, wait for a moment, pick up the Oumai, then drop it on the bomb. Continue this until you win. It will take at least 6 bombs.
+Oumai isn't difficult to kill without sword. It's just slow. When one of the Oumai begin to pop up, drop a bomb at your feet, wait for a moment, pick up the Oumai, then drop it on the bomb. Continue this until you win. It will take at least 6 bombs.
