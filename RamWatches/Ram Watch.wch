@@ -1,5 +1,8 @@
 SystemID GB
 06A2	b	h	0	WRAM	Life
+100B	b	u	0	WRAM	Link Y pos
+100D	b	u	0	WRAM	Link X Pos
+0	S	_	1		
 06BA	b	u	0	WRAM	Gasha Seeds
 063E	b	u	0	WRAM	Maple Kill Counter
 00FF94	b	h	0	System Bus	RNG
@@ -104,4 +107,24 @@ SystemID GB
 00C5FD	b	h	0	System Bus	
 00C5FE	b	h	0	System Bus	
 00C5FF	b	h	0	System Bus	
+0	S	_	1		
+0681	b	h	0	WRAM	A button
+0680	b	h	0	WRAM	B Button
+0682	b	h	0	WRAM	Inventory
+0683	b	h	0	WRAM	
+0684	b	h	0	WRAM	
+0685	b	h	0	WRAM	
+0686	b	h	0	WRAM	
+0687	b	h	0	WRAM	
+0688	b	h	0	WRAM	
+0689	b	h	0	WRAM	
+068A	b	h	0	WRAM	
+068B	b	h	0	WRAM	
+068C	b	h	0	WRAM	
+068D	b	h	0	WRAM	
+068E	b	h	0	WRAM	
+068F	b	h	0	WRAM	
+0690	b	h	0	WRAM	
+0691	b	h	0	WRAM	
+06A9	b	h	0	WRAM	Shield Level
 

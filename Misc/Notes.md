@@ -24,7 +24,7 @@ Takes 8 Scent seeds; Easier to do. You can get two free hits at the start of the
 
 
 ## Vire
-Vire can be damaged with bombs. Good luck with that.
+Vire can be damaged with bombs.
 Vire takes 5 bombs to go to bat stage. If you have good timing, it only takes one more bomb to kill both bats when they swoop down.
 6 bombs minimum, up to 4 mistakes
 
