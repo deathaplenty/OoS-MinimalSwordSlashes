@@ -35,13 +35,38 @@ This is useful for racking up enemy kills while getting 5 rupees a cycle for mor
 
 
 ## Fist Ring Manip
-We need a better one, but this one is known now.
-You appear to need at least 10 rupees.
-
+These manipulations will be in a shorthand form because there are many possible values that will get Fist Ring, but they all have the same procedure:
 1. Start at know-it-all birds house outside entrance.
 2. Save and hard reset
 3. Mash through menu
-4. Screen transition left
+4. Screen transition left to witness Octo
+5. Transition right, witness season
+6. Transition left, witness Octo
+7. Transition right, witness season
+8. go to Maple spot
+  1. Impa
+  2. Right of north Horon entrance
+  3. Down from north Horon entrance
+
+Key:
+  Octo X, where X is a direction, means the octo moves in that direction
+  Impa, Right, Down = Maple spots
+
+### Possible values that will get Fist Ring
+- Octo down, autumn, octo down, winter, right, stand above stairs
+- Octo right, spring, octo down, winter, Impa, stand near Impa snow piles
+- need 4 rupees
+  - octo up, summer, octo down, winter, right, stand above stairs
+  - Octo right, spring, octo down, winter, right
+  - octo left, autumn, octo down, winter, Impa, stand near snow
+
+
+
+
+
+This is a retired manipulation, as it is pretty slow.
+You appear to need at least 10 rupees.
+
 5. If the Octo is towards the bottom-left and moves down, then transition right. Reset otherwise.
 6. If the season is Spring, transition right, then left twice,
 7. If the Octo moves up, then transition right again.
