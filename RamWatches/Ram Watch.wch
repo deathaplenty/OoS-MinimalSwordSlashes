@@ -25,14 +25,15 @@ SystemID GB
 06B9	b	h	0	WRAM	Mystery
 0C86	b	h	0	WRAM	Pegasus Effect Counter
 0	S	_	1		
+00C65C	w	h	0	System Bus	Gasha Seed Variable
 0620	b	u	0	WRAM	
 064C	b	u	0	WRAM	Mount Cucco
-064D	b	u	0	WRAM	
+064D	b	u	0	WRAM	Tarm Ruins
 064E	b	u	0	WRAM	
 064F	b	u	0	WRAM	Rolling Ridge
 0650	b	u	0	WRAM	
 0651	b	u	0	WRAM	Sunken City
-0652	b	u	0	WRAM	
+0652	b	u	0	WRAM	Small Island
 0653	b	u	0	WRAM	
 0654	b	u	0	WRAM	Unicorn Cave
 0655	b	u	0	WRAM	
@@ -127,4 +128,5 @@ SystemID GB
 0690	b	h	0	WRAM	
 0691	b	h	0	WRAM	
 06A9	b	h	0	WRAM	Shield Level
+00C6C5	b	h	0	System Bus	Current Ring
 
